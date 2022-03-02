@@ -1,0 +1,29 @@
+body{
+
+background-color: seagreen;
+color: orchid;
+}
+
+.heading
+{
+width: 80%;
+font-size: 22px;
+}
+
+.name_of_object, #result_object_name, #result_object_accuracy
+{
+color: goldenrod;
+}
+
+#camera
+{
+width: 350px;
+height: 350px;
+border: 2px dashed gray;
+}
+
+
+
+
+
+
